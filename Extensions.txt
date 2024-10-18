@@ -1,0 +1,6 @@
+Auto-Rename
+Live server
+Prettier
+
+
+mdn web docs -> for any sort queries.

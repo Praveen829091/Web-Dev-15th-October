@@ -1,0 +1,74 @@
+/* Element Selector->it styles by targetting the element itself. */
+/* h1
+{
+    color:red;
+} */
+
+/* Group Selectors 
+you are grouping multiple tags separating them by commas */
+/* h1,h2,p{
+    color:red;
+} */
+
+/* class selector
+we can give same class value to multiple elements and it ias used to select multiple tags.
+represented by a . dot */
+
+/* .A3{
+    color:blue;
+} */
+
+/* Id Selector
+same tags or different tags-->different i'ds to be given */
+/* #heading2{
+    color:blue;
+} */
+
+
+/* Attribute Selector */
+/* selecting elements by their attributes. */
+
+/* input[type="text"]
+{
+    border:10px solid black;
+    background-color: aqua;
+}
+input[type="password"]{
+    border:10px solid rgb(246, 11, 11);
+    background-color: rgb(220, 14, 192);
+}
+input[type="email"]{
+    border:10px solid rgb(223, 11, 152);
+    background-color: rgb(0, 255, 51);
+}
+
+a[href="https://www.google.com/"]{
+    background-color: blueviolet;
+}
+
+a[href="https://www.amazon.in/"]{
+    background-color: brown;
+}
+
+
+
+ */
+
+/* competition between element VS class VS id */
+/* 
+Competitior-1 */
+h1{
+    color:blue;
+}
+
+/* Competitor-2 */
+/* .head{
+    color:brown;
+} */
+
+/* Competitor-3 */
+/* #heading{
+    color:aqua;
+} */
+
+

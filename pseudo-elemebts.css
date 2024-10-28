@@ -1,0 +1,18 @@
+h1::before{
+    content: " \1F600 Hello ,";
+}
+
+h1::after{
+    content:"\1F60D";
+}
+
+p::first-letter{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color:goldenrod;
+}
+
+p::first-line{
+    font-family: 'Times New Roman', Times, serif;
+    color:chartreuse;
+}

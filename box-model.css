@@ -1,0 +1,12 @@
+div{
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+    height:200px;
+    width:200px;
+    background-color:aqua;
+    margin-left:50px;
+    margin-top:50px;
+    border:10px solid black;
+    padding-top:10px;;
+    padding-left:20px;
+}
